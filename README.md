@@ -2,7 +2,7 @@
 
 
 # How-to-Run
-Install xampp server and copy this code in htdocs folder of xampp installation directory.
+Install xampp server and extract this rar file, copy this code in htdocs folder of xampp installation directory.
 
 Run the xampp server and make a database in phpmyadmin name "e-voting_system" or whatever you want, but if you change the name you need to edit the databse name from env file. Then migrate:fresh so that newly made database can have table attributes.
 
